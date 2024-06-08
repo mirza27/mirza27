@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mirza</h1>
-<h3 align="center">I am a Informatic student at EEPIS surabay with a keen interest in backend and web development. I am passionate about learning new technologies.</h3>
+<h3 align="center">I am a Informatic student at EEPIS with a keen interest in backend and web development. I am passionate about learning new technologies.</h3>
 
 - 👨‍💻 Technical Skill **-->**
 
