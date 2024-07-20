@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ramadhanimirza10@gmail.com**
 
-- 📄 Know about my resume [https://drive.google.com/file/d/1IEXWDy3f5pDFA57CVHGD7taVNg8gv0Do/view?usp=sharing](https://drive.google.com/file/d/1IEXWDy3f5pDFA57CVHGD7taVNg8gv0Do/view?usp=sharing)
+- 📄 Know about my resume [https://drive.google.com/file/d/1IEXWDy3f5pDFA57CVHGD7taVNg8gv0Do/view?usp=sharing](https://drive.google.com/file/d/16L3NKemNqv0M4vRf3lxFoRf5BwFumLwf/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
