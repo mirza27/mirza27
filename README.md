@@ -1,47 +1,50 @@
-<h1 align="center">Hi 👋, I'm Mirza</h1> <h3 align="center">Software Engineer | Backend Developer</h3> <p align="center"> I'm particularly interested in the intersection of backend engineering and DevOps, and I'm continuing to deepen my skills in backend development, infrastructure, and developer tooling. </p>
-👨‍💻 About Me
-🎓 Software Engineering graduate from Electronic Engineering Polytechnic Institute of Surabaya (PENS)
-🔧 Interested in backend development, infrastructure, and DevOps
-🚀 Experience building REST APIs, maintaining applications, and working with containerized deployments
-🌱 Currently deepening my knowledge of backend engineering, cloud infrastructure, and developer tooling
-🛠️ Technologies & Tools
+# Hi 👋, I'm Mirza
 
-Backend
+### Software Engineer | Backend Developer
 
-Node.js
-Express
-Laravel
-Golang
+I'm particularly interested in the intersection of backend engineering and DevOps. I am continuing to deepen my skills in backend development, infrastructure, and developer tooling.
 
-Frontend & Mobile
+## Technical Skills
 
-React
-Next.js
-JavaScript
-TypeScript
-Flutter
+- **Backend Development:** Node.js, Express, Laravel, Golang
+- **Frontend Development:** React, Next.js, JavaScript, TypeScript
+- **Mobile Development:** Flutter
+- **Database:** PostgreSQL, MySQL
+- **DevOps & Infrastructure:** Docker, CI/CD
+- **Other:** REST API, Kafka, Git
 
-Database
+🌱 Currently deepening my knowledge in **backend development, DevOps, infrastructure, and developer tooling**.
 
-PostgreSQL
-MySQL
+## Connect With Me
 
-DevOps & Infrastructure
+- [GitHub](https://github.com/mirza27)
+- [Website](https://mmrh.me)
+- [Email](mailto:ramadhanimirza10@gmail.com)
+- [View my resume](https://mmrh.me/cv.pdf)
 
-Docker
-CI/CD
-Kubernetes
+## Languages & Tools
 
-Other
+### Languages
 
-Python
-Git
-REST API
-📫 Connect with Me
-<p align="left"> <a href="https://linkedin.com/in/mirza27" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/> </a> <a href="https://github.com/mirza27" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="30" width="30"/> </a> <a href="https://mmrh.me" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" alt="Website" height="30" width="30"/> </a> </p>
-📄 Resume
+[![JavaScript](https://skillicons.dev/icons?i=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://skillicons.dev/icons?i=typescript)](https://www.typescriptlang.org/)
+[![Go](https://skillicons.dev/icons?i=golang)](https://go.dev/)
+[![PHP](https://skillicons.dev/icons?i=php)](https://www.php.net/)
+[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
 
-View my resume
+### Backend & Frontend
 
-🧰 Languages and Tools
-<p align="left"> <a href="https://go.dev" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/> </a> <a href="https://laravel.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> </a> <a href="https://react.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/> </a> <a href="https://kubernetes.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original-wordmark.svg" alt="Kubernetes" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"/> </a> </p>
+[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/)
+[![Express](https://skillicons.dev/icons?i=express)](https://expressjs.com/)
+[![Laravel](https://skillicons.dev/icons?i=laravel)](https://laravel.com/)
+[![React](https://skillicons.dev/icons?i=react)](https://react.dev/)
+[![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/)
+[![Flutter](https://skillicons.dev/icons?i=flutter)](https://flutter.dev/)
+
+### Database, DevOps & Tools
+
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
+[![Kubernetes](https://skillicons.dev/icons?i=kubernetes)](https://kubernetes.io/)
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
